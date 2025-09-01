@@ -6,3 +6,5 @@ built/
 npm-debug.log
 .DS_Store
 coverage/
+coverage/*.json
+coverage/*.xml
